@@ -1,0 +1,17 @@
+{
+    "usuario": "ruffles",
+    "followers": "3000",
+    "following": "200",
+    "avatar": "/assets/imagenes/avatar.jpg",
+    "post": [{
+            "id": "1",
+            "caption": "",
+            "src": "/assets/imagenes/Post 1.jpg"
+        },
+        {
+            "id": "2",
+            "caption": "",
+            "src": "/assets/imagenes/Post 2.png"
+        }
+    ]
+}
